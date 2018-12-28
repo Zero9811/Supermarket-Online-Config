@@ -17,3 +17,5 @@ spring:
     show-sql: true
   application:
     name: user-service
+env:
+  dev
